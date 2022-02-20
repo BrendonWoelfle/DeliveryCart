@@ -12,9 +12,9 @@ namespace DeliveryCart.Pages_Order
 {
     public class DetailsModel : PageModel
     {
-        private readonly DbContext _context;
+        private readonly Context _context;
 
-        public DetailsModel(DbContext context)
+        public DetailsModel(Context context)
         {
             _context = context;
         }

@@ -12,9 +12,9 @@ namespace DeliveryCart.Pages_Order
 {
     public class CreateModel : PageModel
     {
-        private readonly DbContext _context;
+        private readonly Context _context;
 
-        public CreateModel(DbContext context)
+        public CreateModel(Context context)
         {
             _context = context;
         }

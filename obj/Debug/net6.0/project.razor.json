@@ -16298,8 +16298,18 @@
   "RootNamespace": "DeliveryCart",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\Pages\\Order\\Index.cshtml",
       "TargetPath": "Pages\\Order\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Privacy.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16318,8 +16328,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Index.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Order\\Details.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Order\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16333,8 +16363,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Order\\Edit.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Order\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Order\\Delete.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Order\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Order\\Index.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Order\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\Pages\\Order\\Details.cshtml",
       "TargetPath": "Pages\\Order\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16353,8 +16403,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Error.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\Pages\\Order\\Create.cshtml",
       "TargetPath": "Pages\\Order\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart\\Pages\\Order\\Create.cshtml",
+      "TargetPath": "DeliveryCart\\Pages\\Order\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
