@@ -13,9 +13,9 @@ namespace DeliveryCart.Pages_Order
 {
     public class EditModel : PageModel
     {
-        private readonly RazorPagesOrderContext _context;
+        private readonly DbContext _context;
 
-        public EditModel(RazorPagesOrderContext context)
+        public EditModel(DbContext context)
         {
             _context = context;
         }

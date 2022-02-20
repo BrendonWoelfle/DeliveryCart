@@ -12,9 +12,9 @@ namespace DeliveryCart.Pages_Order
 {
     public class DeleteModel : PageModel
     {
-        private readonly RazorPagesOrderContext _context;
+        private readonly DbContext _context;
 
-        public DeleteModel(RazorPagesOrderContext context)
+        public DeleteModel(DbContext context)
         {
             _context = context;
         }

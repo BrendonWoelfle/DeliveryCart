@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Deliverycart.Models;
 
-    public class Context : DbContext
+    public class DbContext : Microsoft.EntityFrameworkCore.DbContext
     {
-        public Context (DbContextOptions<Context> options)
+        public DbContext (DbContextOptions<DbContext> options)
             : base(options)
         {
         }
-
-        public DbSet<Deliverycart.Models.Item> Item { get; set; }
+        public DbSet<Deliverycart.Models.Item> Item {get; set;}
         public DbSet<Deliverycart.Models.Order> Order { get; set; }
         public DbSet<Deliverycart.Models.Customer> Customer { get; set; }
         public DbSet<Deliverycart.Models.Vendor> Vendor { get; set; }
