@@ -1,0 +1,12 @@
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\bin\Debug\net6.0\DeliveryCartTest.deps.json
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\bin\Debug\net6.0\DeliveryCartTest.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\bin\Debug\net6.0\ref\DeliveryCartTest.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\bin\Debug\net6.0\DeliveryCartTest.pdb
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.csproj.AssemblyReference.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.AssemblyInfoInputs.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.AssemblyInfo.cs
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.csproj.CoreCompileInputs.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\ref\DeliveryCartTest.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\DeliveryCartTest\obj\Debug\net6.0\DeliveryCartTest.pdb
