@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIhoH0mdELewXLz693/HdSOjnakGFCXOCbDnLSuanpcVML6E5yj6RZ3t3UHCP5cQr/0CqQNkcfjpa9iXHwX+zg==",
+  "dgSpecHash": "A5auc3Ehq+6SSTFsRgf70aK2bQpY6ELdjowuBZ15ta+qSXyZr53mG1aufW8wwVOskD8Ojdlk5Zgp/4dzeo5M1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart.csproj",
+  "projectFilePath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\DeliveryCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bwoel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -39,6 +39,7 @@
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.2\\microsoft.entityframeworkcore.analyzers.6.0.2.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.2\\microsoft.entityframeworkcore.design.6.0.2.nupkg.sha512",
+    "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.2\\microsoft.entityframeworkcore.inmemory.6.0.2.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.2\\microsoft.entityframeworkcore.relational.6.0.2.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.2\\microsoft.entityframeworkcore.sqlite.6.0.2.nupkg.sha512",
     "C:\\Users\\bwoel\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.2\\microsoft.entityframeworkcore.sqlite.core.6.0.2.nupkg.sha512",

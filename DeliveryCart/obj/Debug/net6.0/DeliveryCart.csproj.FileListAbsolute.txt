@@ -283,3 +283,14 @@ C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\obj\Debug\net6.0\De
 C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\obj\Debug\net6.0\ref\DeliveryCart.dll
 C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\obj\Debug\net6.0\DeliveryCart.pdb
 C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DeliveryCart\obj\Debug\net6.0\DeliveryCart.genruntimeconfig.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.csproj.AssemblyReference.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.AssemblyInfoInputs.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.AssemblyInfo.cs
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.csproj.CoreCompileInputs.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.RazorAssemblyInfo.cache
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.RazorAssemblyInfo.cs
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\ref\DeliveryCart.dll
+C:\Users\bwoel\OneDrive\Desktop\CIDM-4390 !!!!!\DELIVERYCART\DeliveryCart\obj\Debug\net6.0\DeliveryCart.pdb

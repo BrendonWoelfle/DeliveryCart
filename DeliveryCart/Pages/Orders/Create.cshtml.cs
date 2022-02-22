@@ -37,8 +37,7 @@ namespace DeliveryCart.Pages_Orders
                 return Page();
             }
 
-            _context.Order.Add(Order);
-            await _context.SaveChangesAsync();
+            await _context.AddOrderAsync(Order);
 
             return RedirectToPage("./Index");
         }

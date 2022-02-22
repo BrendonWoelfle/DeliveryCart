@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
-using DeliveryCart.Data;
-using DeliveryCart.Models;
+using Deliverycart.Data;
+using Deliverycart.Models;
 
-namespace deliverycart.Tests;
+namespace Deliverycart.Tests;
 
 public class DataAccessLayerTest
 {

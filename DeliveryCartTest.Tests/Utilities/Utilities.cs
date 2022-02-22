@@ -5,9 +5,9 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using DeliveryCart.Data;
+using Deliverycart.Data;
 
-namespace deliverycart.Tests
+namespace Deliverycart.Tests
 {
     public static class Utilities
     {

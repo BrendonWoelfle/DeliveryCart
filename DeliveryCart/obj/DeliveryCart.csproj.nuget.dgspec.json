@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart.csproj": {}
+    "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\DeliveryCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart.csproj": {
+    "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\DeliveryCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart.csproj",
+        "projectUniqueName": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\DeliveryCart.csproj",
         "projectName": "DeliveryCart",
-        "projectPath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\DeliveryCart.csproj",
+        "projectPath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\DeliveryCart.csproj",
         "packagesPath": "C:\\Users\\bwoel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DeliveryCart\\obj\\",
+        "outputPath": "C:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\DELIVERYCART\\DeliveryCart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
